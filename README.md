@@ -14,7 +14,7 @@
 
 ## 演示
 
-系统工程中车人检测、车道线检测、限速牌检测的功能测试示意（若本仓库未包含 `test.gif`，可将演示动图置于仓库根目录，或使用下方远程链接）：
+系统工程中车人检测、车道线检测、限速牌检测的功能测试示意
 
 ![功能测试](https://github.com/allrivertosea/Xilinx-adas-inference-demo/blob/main/test.gif)
 
